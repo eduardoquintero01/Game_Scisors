@@ -17,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		FB170A162A7DB6080095A13B /* ImageCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCarouselView.swift; sourceTree = "<group>"; };
+		FB170A182A7DC1AD0095A13B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FB29FFFD2A7DAC8A0047801F /* BackGroundColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackGroundColor.swift; sourceTree = "<group>"; };
 		FBF3F8282A7DA94F00370734 /* Game_Scisors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Game_Scisors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBF3F82B2A7DA94F00370734 /* Game_ScisorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game_ScisorsApp.swift; sourceTree = "<group>"; };
@@ -57,6 +58,7 @@
 			children = (
 				FBF3F82B2A7DA94F00370734 /* Game_ScisorsApp.swift */,
 				FBF3F82D2A7DA94F00370734 /* ContentView.swift */,
+				FB170A182A7DC1AD0095A13B /* README.md */,
 				FB170A162A7DB6080095A13B /* ImageCarouselView.swift */,
 				FB29FFFD2A7DAC8A0047801F /* BackGroundColor.swift */,
 				FBF3F82F2A7DA95100370734 /* Assets.xcassets */,
