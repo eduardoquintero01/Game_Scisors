@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FB170A172A7DB6080095A13B /* ImageCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB170A162A7DB6080095A13B /* ImageCarouselView.swift */; };
 		FB29FFFE2A7DAC8A0047801F /* BackGroundColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB29FFFD2A7DAC8A0047801F /* BackGroundColor.swift */; };
 		FBF3F82C2A7DA94F00370734 /* Game_ScisorsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF3F82B2A7DA94F00370734 /* Game_ScisorsApp.swift */; };
 		FBF3F82E2A7DA94F00370734 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF3F82D2A7DA94F00370734 /* ContentView.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FB170A162A7DB6080095A13B /* ImageCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCarouselView.swift; sourceTree = "<group>"; };
 		FB29FFFD2A7DAC8A0047801F /* BackGroundColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackGroundColor.swift; sourceTree = "<group>"; };
 		FBF3F8282A7DA94F00370734 /* Game_Scisors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Game_Scisors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBF3F82B2A7DA94F00370734 /* Game_ScisorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game_ScisorsApp.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				FBF3F82B2A7DA94F00370734 /* Game_ScisorsApp.swift */,
 				FBF3F82D2A7DA94F00370734 /* ContentView.swift */,
+				FB170A162A7DB6080095A13B /* ImageCarouselView.swift */,
 				FB29FFFD2A7DAC8A0047801F /* BackGroundColor.swift */,
 				FBF3F82F2A7DA95100370734 /* Assets.xcassets */,
 				FBF3F8312A7DA95100370734 /* Preview Content */,
@@ -142,6 +145,7 @@
 			files = (
 				FB29FFFE2A7DAC8A0047801F /* BackGroundColor.swift in Sources */,
 				FBF3F82E2A7DA94F00370734 /* ContentView.swift in Sources */,
+				FB170A172A7DB6080095A13B /* ImageCarouselView.swift in Sources */,
 				FBF3F82C2A7DA94F00370734 /* Game_ScisorsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
