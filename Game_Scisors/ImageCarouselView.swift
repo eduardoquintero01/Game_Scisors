@@ -8,12 +8,15 @@
 import SwiftUI
 
 struct ImageCarouselView: View {
-    let moves = ["Rock","Papper","scissors"]
+    let moves = ["Rock","Paper","Scissors"]
     @State private var currentIndex = Int.random(in: 0..<3)
     var body: some View {
        
         
         Image("\(moves[currentIndex])")
+            .resizable()
+            .aspectRatio( contentMode: .fit)
+            .frame(width: 200,height: 200)
     }
 }
 
